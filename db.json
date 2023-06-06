@@ -1,0 +1,23 @@
+{
+    "users":[
+        {
+            "name":"Kumkum Dutta",
+            "email":"abc@gmail.com",
+            "password":1234,
+            "expense":[{
+                "type":"expense",
+                "category":"Bills",
+                "amount":2000,
+                "date":"14th may,2023"
+            }],
+            "income":[{
+                "type":"income",
+                "category":"Gifts",
+                "amount":4000,
+                "date":"14th may,2023"
+            }]
+
+        }
+    ]
+
+}
